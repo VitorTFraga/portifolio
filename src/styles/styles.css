@@ -4,10 +4,10 @@
     padding: 0;
 }
 :root{
-    --back-ground-color: #F4F4F4;
-    --main-font-colo: #1A3D64;
-    --secundary-color: #0C2B4E;
-    --hover-color: #1D546C;
+    --back-ground-color: #1D1616;
+    --main-font-colo: #EEEEEE;
+    --secundary-color: #8E1616;
+    --hover-color: #D84040;
     --font-type-title: 'krona-one', sans-serif;
     --font-type-text: 'montserrat', sans-serif ;
 }
